@@ -23,7 +23,7 @@
 - **Other:** Linux, APIs, Web Scraping, AI Automation
 
 ### Connect With Me
-- 🔗 [LinkedIn](www.linkedin.com/in/abakarkosso/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abakarkosso/)
 
 - ✉️ Email: ak22fl@brocku.ca
 
