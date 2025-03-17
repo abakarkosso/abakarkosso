@@ -11,7 +11,7 @@
 
 ### What I'm Working On
 🔹 Mastering **Python** for backend and cloud applications  
-🔹 Grinding **LeetCode** (NeetCode Pro user) to sharpen DSA skills  
+🔹 Grinding **LeetCode** to sharpen DSA skills  
 🔹 Exploring **Cloud & DevOps** (AWS, Docker, Terraform)  
 🔹 Building **automation tools & side projects**  
 
