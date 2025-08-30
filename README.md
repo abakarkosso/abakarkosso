@@ -1,30 +1,25 @@
-## Hi there, I'm abakar kosso 👋
+# Hi 👋, I’m Abakar Kosso
 
-🚀 **Aspiring Software Engineer | CS & Economics Student | Future Founder**
+🎓 CS @ Brock University  
+👨🏾‍💻 Aspiring Software Engineer | Backend · Cloud · AI  
+💡 Love building projects that solve real-world problems  
 
-### About Me
-- 🎓 **Computer Science & Economics Student @ Brock University**
-- 💡 Passionate about **backend development, cloud engineering, and AI**
-- 🎯 Currently focusing on **Python, LeetCode, and building real-world projects**
-- 💼 Actively looking for **internships in Toronto (GTA) & remote**
-- 💰 Interested in **startups, AI automation, and financial independence**
+📫 Reach me: [ak22fl@brocku.ca](mailto:ak22fl@brocku.ca) | [LinkedIn](https://www.linkedin.com/in/abakarkosso/)
 
-### What I'm Working On
-🔹 Mastering **Python** for backend and cloud applications  
-🔹 Grinding **LeetCode** to sharpen DSA skills  
-🔹 Exploring **Cloud & DevOps** (AWS, Docker, Terraform)  
-🔹 Building **automation tools & side projects**  
+---
 
-### Tech Stack
-- **Languages:** Python, java, JavaScript, SQL
-- **Backend:** FastAPI, Node.js, Flask
-- **Databases:** PostgreSQL, MongoDB, Firebase
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
-- **Other:** Linux, APIs, Web Scraping, AI Automation
+## 🛠 Languages & Tools
 
-### Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abakarkosso/)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-- ✉️ Email: ak22fl@brocku.ca
+---
 
-💬 **Let's talk tech, startups, and opportunities!**
+💬 **Let’s connect! Always open to collaborating on projects, learning new tech, or talking about software development.**
