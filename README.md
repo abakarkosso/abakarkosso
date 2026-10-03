@@ -14,7 +14,7 @@ Scrapes Amazon products and their competitors across 7 marketplaces, tracks pric
 price sits against same-currency competitors, and generates an LLM pricing analysis. Runs in a keyless demo
 mode. 23 tests including a UI smoke test, CI.
 
-**Internship Radar**: private while I prepare it for release
+**[Internship Radar](https://github.com/abakarkosso/internship-radar)**
 Java, Spring Boot, React, TypeScript, PostgreSQL, Docker
 Collects Canadian internship postings every 15 minutes and filters them to the ones a student can actually
 get (co-op, degree, work authorization). Eligibility rules are measured on 137 hand-labelled postings, and
